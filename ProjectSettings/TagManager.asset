@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Undefined
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Rei
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bac
+    uniqueID: 1013623653
+    locked: 0
+  - name: UI
+    uniqueID: 3077234003
+    locked: 0
+  - name: leg
+    uniqueID: 4073003119
+    locked: 0
+  - name: Ground
+    uniqueID: 3699954863
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
